@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "75203560972",
+    "project_id": "oyun-gaming-flutter-ui",
+    "storage_bucket": "oyun-gaming-flutter-ui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75203560972:android:b88d3df4ed97b3e0a59029",
+        "android_client_info": {
+          "package_name": "com.iqonic.oyungaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75203560972-ok8vdl4iarijml3hghg5mbpnp436nqk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBPP-1gJx1WSUMBmlRq0hW4EYELsoGRT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75203560972-ok8vdl4iarijml3hghg5mbpnp436nqk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
